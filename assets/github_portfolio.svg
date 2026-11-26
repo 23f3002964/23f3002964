@@ -1,0 +1,43 @@
+<svg width="900" height="270" viewBox="0 0 900 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="270" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="438" height="268" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <rect x="461" y="1" width="438" height="268" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <text x="24" y="34" fill="#58a6ff" font-family="JetBrains Mono,monospace" font-size="12" font-weight="700" letter-spacing="1.2">REPOSITORIES BY LANGUAGE</text>
+  <text x="484" y="34" fill="#3fb950" font-family="JetBrains Mono,monospace" font-size="12" font-weight="700" letter-spacing="1.2">ENGINEERING FOCUS AREAS</text>
+  <text x="24" y="72" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Python</text>
+<rect x="122" y="59" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="122" y="59" width="231.1" height="18" rx="5" fill="#3572A5"><animate attributeName="width" from="0" to="231.1" dur="0.9s" begin="0.00s" fill="freeze"/></rect>
+<text x="361.1" y="72" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">16</text>
+<text x="24" y="110" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">HTML/Web</text>
+<rect x="122" y="97" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="122" y="97" width="86.7" height="18" rx="5" fill="#f78166"><animate attributeName="width" from="0" to="86.7" dur="0.9s" begin="0.12s" fill="freeze"/></rect>
+<text x="216.7" y="110" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">6</text>
+<text x="24" y="148" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">TypeScript</text>
+<rect x="122" y="135" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="122" y="135" width="57.8" height="18" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="57.8" dur="0.9s" begin="0.24s" fill="freeze"/></rect>
+<text x="187.8" y="148" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">4</text>
+<text x="24" y="186" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Jupyter NB</text>
+<rect x="122" y="173" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="122" y="173" width="43.3" height="18" rx="5" fill="#d29922"><animate attributeName="width" from="0" to="43.3" dur="0.9s" begin="0.36s" fill="freeze"/></rect>
+<text x="173.3" y="186" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">3</text>
+<text x="24" y="224" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Shell/Other</text>
+<rect x="122" y="211" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="122" y="211" width="130.0" height="18" rx="5" fill="#8b949e"><animate attributeName="width" from="0" to="130.0" dur="0.9s" begin="0.48s" fill="freeze"/></rect>
+<text x="260.0" y="224" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">9</text>
+  <text x="484" y="72" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Full-Stack Web</text>
+<rect x="582" y="59" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="582" y="59" width="222.9" height="18" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="222.9" dur="0.9s" begin="0.00s" fill="freeze"/></rect>
+<text x="812.9" y="72" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">12</text>
+<text x="484" y="110" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Kaggle & ML/AI</text>
+<rect x="582" y="97" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="582" y="97" width="185.7" height="18" rx="5" fill="#3fb950"><animate attributeName="width" from="0" to="185.7" dur="0.9s" begin="0.12s" fill="freeze"/></rect>
+<text x="775.7" y="110" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">10</text>
+<text x="484" y="148" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Systems & Linux</text>
+<rect x="582" y="135" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="582" y="135" width="167.1" height="18" rx="5" fill="#bc8cff"><animate attributeName="width" from="0" to="167.1" dur="0.9s" begin="0.24s" fill="freeze"/></rect>
+<text x="757.1" y="148" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">9</text>
+<text x="484" y="186" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Bots & Auto</text>
+<rect x="582" y="173" width="260" height="18" rx="5" fill="#21262d"/>
+<rect x="582" y="173" width="130.0" height="18" rx="5" fill="#d29922"><animate attributeName="width" from="0" to="130.0" dur="0.9s" begin="0.36s" fill="freeze"/></rect>
+<text x="720.0" y="186" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">7</text>
+</svg>

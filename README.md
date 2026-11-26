@@ -39,7 +39,7 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-<img src="assets/github_portfolio.png" alt="GitHub Engineering Footprint" width="95%"/>
+<img src="assets/github_portfolio.svg" alt="GitHub Engineering Footprint" width="95%"/>
 </div>
 
 <img src="assets/footer.svg" width="100%"/>
