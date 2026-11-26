@@ -28,15 +28,15 @@
 <rect x="582" y="59" width="260" height="18" rx="5" fill="#21262d"/>
 <rect x="582" y="59" width="222.9" height="18" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="222.9" dur="0.9s" begin="0.00s" fill="freeze"/></rect>
 <text x="812.9" y="72" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">12</text>
-<text x="484" y="110" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Kaggle & ML/AI</text>
+<text x="484" y="110" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Kaggle &amp; ML/AI</text>
 <rect x="582" y="97" width="260" height="18" rx="5" fill="#21262d"/>
 <rect x="582" y="97" width="185.7" height="18" rx="5" fill="#3fb950"><animate attributeName="width" from="0" to="185.7" dur="0.9s" begin="0.12s" fill="freeze"/></rect>
 <text x="775.7" y="110" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">10</text>
-<text x="484" y="148" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Systems & Linux</text>
+<text x="484" y="148" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Systems &amp; Linux</text>
 <rect x="582" y="135" width="260" height="18" rx="5" fill="#21262d"/>
 <rect x="582" y="135" width="167.1" height="18" rx="5" fill="#bc8cff"><animate attributeName="width" from="0" to="167.1" dur="0.9s" begin="0.24s" fill="freeze"/></rect>
 <text x="757.1" y="148" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">9</text>
-<text x="484" y="186" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Bots & Auto</text>
+<text x="484" y="186" fill="#c9d1d9" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="600">Bots &amp; Auto</text>
 <rect x="582" y="173" width="260" height="18" rx="5" fill="#21262d"/>
 <rect x="582" y="173" width="130.0" height="18" rx="5" fill="#d29922"><animate attributeName="width" from="0" to="130.0" dur="0.9s" begin="0.36s" fill="freeze"/></rect>
 <text x="720.0" y="186" fill="#f0f6fc" font-family="JetBrains Mono,monospace" font-size="11.5" font-weight="700">7</text>
