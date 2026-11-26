@@ -1,0 +1,20 @@
+<svg width="900" height="90" viewBox="0 0 900 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="50%" stop-color="#8957e5"/>
+      <stop offset="100%" stop-color="#238636"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fGrad)" opacity="0.28">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,40 C220,10 420,75 680,32 C790,14 850,36 900,28 L900,90 L0,90 Z;
+        M0,25 C250,70 460,12 690,48 C800,66 860,20 900,38 L900,90 L0,90 Z;
+        M0,40 C220,10 420,75 680,32 C790,14 850,36 900,28 L900,90 L0,90 Z
+      "/>
+  </path>
+  <text x="450" y="64" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="600">
+    “We live and die in the shadows, for those we hold close, and for those we never meet.”
+  </text>
+</svg>

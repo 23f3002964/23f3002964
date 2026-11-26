@@ -1,0 +1,18 @@
+<svg width="900" height="44" viewBox="0 0 900 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .line { font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 16px; font-weight: 600; fill: #e6edf3; opacity: 0; }
+    .l1 { animation: cycle 12s infinite 0s; }
+    .l2 { animation: cycle 12s infinite 4s; }
+    .l3 { animation: cycle 12s infinite 8s; }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(6px); }
+      6%   { opacity: 1; transform: translateY(0px); }
+      28%  { opacity: 1; transform: translateY(0px); }
+      33%  { opacity: 0; transform: translateY(-6px); }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text x="450" y="27" text-anchor="middle" class="line l1">⚡ Competitive ML: Tabular Ensembling, Exact-Value TE &amp; Rank Blending</text>
+  <text x="450" y="27" text-anchor="middle" class="line l2">🧠 Deep Learning: Attention-UNet Segmentation &amp; 1D ECG Time-Series CNNs</text>
+  <text x="450" y="27" text-anchor="middle" class="line l3">🐧 Systems &amp; Bots: Multi-Threaded Python, Tor MCP &amp; Wayland/PipeWire</text>
+</svg>
