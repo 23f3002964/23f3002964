@@ -1,0 +1,59 @@
+<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .sec { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; font-weight: 700; fill: #58a6ff; letter-spacing: 1.4px; }
+      .cat { font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 12.5px; font-weight: 700; fill: #c9d1d9; }
+      .pill { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 11px; font-weight: 600; fill: #e6edf3; }
+    </style>
+  </defs>
+
+  <text x="10" y="18" class="sec">TECHNICAL SKILLS &amp; TOOLKIT</text>
+  <rect x="0" y="30" width="900" height="194" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Row 1: ML & DL -->
+  <text x="24" y="64" class="cat">ML &amp; Deep Learning</text>
+  <g transform="translate(185, 45)">
+    <rect width="78" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="39" y="17" text-anchor="middle" class="pill">PyTorch</text>
+    <rect x="86" width="88" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="130" y="17" text-anchor="middle" class="pill">LightGBM</text>
+    <rect x="182" width="80" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="222" y="17" text-anchor="middle" class="pill">XGBoost</text>
+    <rect x="270" width="86" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="313" y="17" text-anchor="middle" class="pill">CatBoost</text>
+    <rect x="364" width="112" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="420" y="17" text-anchor="middle" class="pill">Scikit-Learn</text>
+    <rect x="484" width="118" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="543" y="17" text-anchor="middle" class="pill">Attention-UNet</text>
+    <rect x="610" width="82" height="26" rx="6" fill="#21262d" stroke="#3fb950" stroke-opacity="0.6"/><text x="651" y="17" text-anchor="middle" class="pill">1D CNNs</text>
+  </g>
+
+  <!-- Row 2: Data & Science -->
+  <text x="24" y="108" class="cat">Data &amp; Scientific AI</text>
+  <g transform="translate(185, 89)">
+    <rect width="74" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="37" y="17" text-anchor="middle" class="pill">NumPy</text>
+    <rect x="82" width="76" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="120" y="17" text-anchor="middle" class="pill">Pandas</text>
+    <rect x="166" width="78" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="205" y="17" text-anchor="middle" class="pill">OpenCV</text>
+    <rect x="252" width="96" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="300" y="17" text-anchor="middle" class="pill">DICOM/MRI</text>
+    <rect x="356" width="106" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="409" y="17" text-anchor="middle" class="pill">Matplotlib</text>
+    <rect x="470" width="110" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="525" y="17" text-anchor="middle" class="pill">CUDA / GPU</text>
+    <rect x="588" width="104" height="26" rx="6" fill="#21262d" stroke="#58a6ff" stroke-opacity="0.6"/><text x="640" y="17" text-anchor="middle" class="pill">Ensembling</text>
+  </g>
+
+  <!-- Row 3: Languages & Web -->
+  <text x="24" y="152" class="cat">Languages &amp; Web</text>
+  <g transform="translate(185, 133)">
+    <rect width="74" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="37" y="17" text-anchor="middle" class="pill">Python</text>
+    <rect x="82" width="102" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="133" y="17" text-anchor="middle" class="pill">TypeScript</text>
+    <rect x="192" width="76" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="230" y="17" text-anchor="middle" class="pill">Vue.js</text>
+    <rect x="276" width="84" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="318" y="17" text-anchor="middle" class="pill">Node.js</text>
+    <rect x="368" width="102" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="419" y="17" text-anchor="middle" class="pill">HTML / CSS</text>
+    <rect x="478" width="76" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="516" y="17" text-anchor="middle" class="pill">Bash</text>
+    <rect x="562" width="66" height="26" rx="6" fill="#21262d" stroke="#bc8cff" stroke-opacity="0.6"/><text x="595" y="17" text-anchor="middle" class="pill">SQL</text>
+  </g>
+
+  <!-- Row 4: Systems & Infra -->
+  <text x="24" y="196" class="cat">Systems &amp; Infra</text>
+  <g transform="translate(185, 177)">
+    <rect width="122" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="61" y="17" text-anchor="middle" class="pill">Linux / Wayland</text>
+    <rect x="130" width="104" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="182" y="17" text-anchor="middle" class="pill">MCP Servers</text>
+    <rect x="242" width="114" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="299" y="17" text-anchor="middle" class="pill">Telegram Bots</text>
+    <rect x="364" width="100" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="414" y="17" text-anchor="middle" class="pill">Tor / OSINT</text>
+    <rect x="472" width="106" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="525" y="17" text-anchor="middle" class="pill">Kaggle CLI</text>
+    <rect x="586" width="106" height="26" rx="6" fill="#21262d" stroke="#d29922" stroke-opacity="0.6"/><text x="639" y="17" text-anchor="middle" class="pill">Git / GitHub</text>
+  </g>
+</svg>
