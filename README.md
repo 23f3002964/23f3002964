@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@23f3002964-181717?style=for-the-badge&logo=github)](https://github.com/23f3002964)
 [![IIT Madras](https://img.shields.io/badge/IIT_Madras-BS_Data_Science-8B0000?style=for-the-badge&logo=academia&logoColor=white)](https://study.iitm.ac.in/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Rank_33%2F1916_(S6E8)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/23f3002964/kaggle-playground-s6e8)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Rank_474%2F3532_(S6E8)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/23f3002964/kaggle-playground-s6e8)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 | Project | Highlight | Stack | Link |
 |---|---|---|---|
-| **Playground Series S6E8** | Rank **33 / 1,916** · Private ROC-AUC `0.97075` | `LightGBM` `XGBoost` `CatBoost` | [`kaggle-playground-s6e8`](https://github.com/23f3002964/kaggle-playground-s6e8) |
+| **Playground Series S6E8** | Rank **474 / 3,532** · Private ROC-AUC `0.97086` | `LightGBM` `XGBoost` `CatBoost` | [`kaggle-playground-s6e8`](https://github.com/23f3002964/kaggle-playground-s6e8) |
 | **Industrial Surface Defect** | 5-Fold Attention-UNet + Fine-Tuning · LB `0.64868` | `PyTorch` `Segmentation` | [`kaggle-industrial-surface-defect-detection`](https://github.com/23f3002964/kaggle-industrial-surface-defect-detection) |
 | **NPPE2 ECG Arrhythmia** | True-Aligned 1D CNN + Pseudo-Labeling · `0.72324` | `PyTorch` `1D CNN` | [`kaggle-nppe2-ecg-arrhythmia`](https://github.com/23f3002964/kaggle-nppe2-ecg-arrhythmia) |
 | **Telegram Fast Uploader** | Multi-threaded Linux Nautilus uploader | `Python` `Linux` | [`Telegram-Fast-Uploader`](https://github.com/23f3002964/Telegram-Fast-Uploader) |
