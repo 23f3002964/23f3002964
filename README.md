@@ -38,6 +38,18 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
+### 🌐 Live Deployments (Vercel)
+
+| App | Description | Live URL |
+|---|---|---|
+| **AlphaFold 3 Visualizer** | Interactive AlphaFold 3 model architecture visualizer | [`alphafold3-visualizer.vercel.app`](https://alphafold3-visualizer.vercel.app) |
+| **AlexNet Visualizer** | Interactive CNN / AlexNet layer-by-layer visualizer | [`alexnet-visualizer.vercel.app`](https://alexnet-visualizer.vercel.app) |
+| **MLT Notes (IITM BS)** | Interactive Machine Learning Techniques study & formula hub | [`mlt-notes-rust.vercel.app`](https://mlt-notes-rust.vercel.app) |
+| **Course Platform** | Full-stack online course & learning platform | [`course-platform-delta-lilac.vercel.app`](https://course-platform-delta-lilac.vercel.app) |
+| **Truth or Dare** | Interactive web game app | [`truth-dare-blush-ten.vercel.app`](https://truth-dare-blush-ten.vercel.app) |
+
+<img src="assets/divider.svg" width="100%"/>
+
 <div align="center">
 <img src="assets/github_portfolio.svg" alt="GitHub Engineering Footprint" width="95%"/>
 </div>
